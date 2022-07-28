@@ -1,4 +1,4 @@
-# Graduation-Project Flutter Mobile application and it's name is 'Kher Wallet'
+# Graduation-Project Flutter Mobile application named'Kher Wallet'
 using Flutter, Dart , Firebase , and Android Studio Platform,We followed the Waterfall
 methodology.
 The idea of our Application filling the gap between different organizations and people by
